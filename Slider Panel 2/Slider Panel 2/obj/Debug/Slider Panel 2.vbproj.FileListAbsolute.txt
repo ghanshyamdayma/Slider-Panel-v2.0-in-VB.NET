@@ -1,0 +1,11 @@
+c:\users\ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\bin\Debug\Slider Panel 2.exe.config
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\bin\Debug\Slider Panel 2.exe
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\bin\Debug\Slider Panel 2.pdb
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\bin\Debug\Slider Panel 2.xml
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\obj\Debug\Slider Panel 2.vbprojResolveAssemblyReference.cache
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\obj\Debug\Slider_Panel_2.Form1.resources
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\obj\Debug\Slider_Panel_2.Resources.resources
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\obj\Debug\Slider Panel 2.vbproj.GenerateResource.Cache
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\obj\Debug\Slider Panel 2.exe
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\obj\Debug\Slider Panel 2.xml
+C:\Users\Ghanshyam\documents\visual studio 2015\Projects\Slider Panel 2\Slider Panel 2\obj\Debug\Slider Panel 2.pdb
